@@ -21,7 +21,7 @@
             <div class="header">
                 <div class="header-left">
                     <div class="star"></div>
-                    <span>2023级计算机应用技术2班角色祈愿</span>
+                    <span>计算机1班角色祈愿</span>
                 </div>
                 <div class="header-center">
 
@@ -90,8 +90,7 @@
 			
             <video autoplay @ended="VideoEnd" :src=videosrc width="100%" ref="myVideo"></video>
 			<!-- 非专业人员别动这个video标签！
-				就算要动也请务必备份好！
-				不然出问题有你受的
+				就算要动也请做好备份！
 			-->
 			
 
@@ -104,7 +103,7 @@
             </div>
         </div>
     </div>
-
+ 
     <script>
 		
         const { createApp, ref } = Vue
@@ -186,7 +185,7 @@
 						console.log(videosrc.value)
                     myVideo.value.play()
                 }
-
+ 
                 const VideoEnd = () => {
 					asn()
                     console.log(historyList.value)
