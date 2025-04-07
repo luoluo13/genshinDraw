@@ -1,3 +1,15 @@
+## 临时通知
+
+或许是由于自身技术水平不足，我已经在现有的BUG上消耗了太多时间。
+
+自2025.04.07起，该项目进入长期冷却。
+
+具体恢复更新时间待定。
+
+---
+
+
+
 ## 进入 js/config.js 配置人名.
 
 ![](https://github.com/cxcwing/genshinDraw/blob/master/img/1.png)
